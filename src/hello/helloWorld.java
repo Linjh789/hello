@@ -43,7 +43,7 @@ public class helloWorld {
 			
 		}
 		
-		System.out.println(conn);
+		System.out.println();
 		
 		json.put("errMsg", errMsg);
 		System.out.println(json.toString());
