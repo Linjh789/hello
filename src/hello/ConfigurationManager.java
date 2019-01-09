@@ -2,7 +2,7 @@ package hello;
 
 import java.io.InputStream;
 import java.util.Properties;
-
+//add add
 /**
  * 配置管理组件
  * 
