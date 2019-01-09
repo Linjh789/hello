@@ -42,8 +42,10 @@ public class helloWorld {
 			errMsg = dbDriver+"驱动类不存在";
 			
 		}
-		//test tortoiseGit		
-		//test tortoiseGit3
+		//test tortoiseGit	
+		//test tortoiseGit1	
+		//test tortoiseGit3		
+
 		System.out.println("conn");
 		
 		json.put("errMsg", errMsg);
